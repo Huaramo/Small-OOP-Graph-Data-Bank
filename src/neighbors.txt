@@ -1,0 +1,5 @@
+0	Nürtingen	Reutlingen,Rottenburg am Neckar
+1	Tübingen	Reutlingen,Rottenburg am Neckar,Sigmaringen
+2	Reutlingen	Nürtingen,Tübingen,Sigmaringen
+3	Rottenburg am Neckar	Nürtingen,Tübingen
+4	Sigmaringen	Tübingen,Reutlingen
